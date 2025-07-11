@@ -12,7 +12,11 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     photo_url = "https://envs.sh/eRh.jpg"  # Replace with your own image URL or local file path
     
     # Caption text
-    caption = "👋 Welcome to the Earning Bot!\n\nFollow the steps below to start earning rewards:"
+    caption = "*👋 Wᴇʟᴄᴏᴍᴇ Tᴏ Tʜᴇ Wᴀᴛᴄʜ Aᴅ & Eᴀʀɴ Mᴏɴᴇʏ Bᴏᴛ!*\n\n"
+        "*Wᴀᴛᴄʜ Sʜᴏʀᴛ Aᴅs Aɴᴅ Eᴀʀɴ Rᴇᴀʟ Mᴏɴᴇʏ Iɴsᴛᴀɴᴛʟʏ!\n* "
+        "*Gᴇᴛ Rᴇᴡᴀʀᴅᴇᴅ Wɪᴛʜ ₹0.10 Fᴏʀ Eᴠᴇʀʏ Aᴅ Yᴏᴜ Wᴀᴛᴄʜ.*\n"
+        "*Sɪᴍᴘʟᴇ, Fᴀsᴛ, Aɴᴅ Eᴀsʏ Wᴀʏ Tᴏ Eᴀʀɴ Fʀᴏᴍ Yᴏᴜʀ Mᴏʙɪʟᴇ.*\n"
+        "*Sᴛᴀʀᴛ Nᴏᴡ!*"
 
     # Define buttons
     keyboard = [
