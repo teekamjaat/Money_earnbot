@@ -1,3 +1,5 @@
+import os
+BOT_TOKEN = os.getenv("BOT_TOKEN")  # use this only if set in env variables
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, InputMediaPhoto
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
